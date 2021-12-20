@@ -1,0 +1,29 @@
+{
+  events : [
+        {
+          id: 1,
+          category: "animal welfare",
+          description: "find you new feline friend at this event",
+          date: "January 28, 2022",
+          time: "11:00",
+          title: "Cat Adoption day"
+
+        },
+        {
+          id: 2,
+          category: "food",
+          description: "Community gardening",
+          date: "March 14, 2022",
+          time: "11:00",
+          title: "Community gardening"
+        },
+                {
+          id: 3,
+          category: "car",
+          description: "Cars",
+          date: "March 14, 2019",
+          time: "9:00",
+          title: "My dream car"
+        }
+  ]
+}
